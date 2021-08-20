@@ -12,6 +12,4 @@ This app is built with:
 
 Do whatever you want with the code, however, if you use it for your own project, please give credits where due.
 
-All the best,
-Ameer
-
+- Ameer
